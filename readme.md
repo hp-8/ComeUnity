@@ -2,14 +2,14 @@
 Develop a platform that connects volunteers with local opportunities to help. The platform will include features for user authentication, opportunity posting and searching, booking management, scheduling, payment processing (for optional paid events or donations), and an admin dashboard.
 
 ## Technologies
-Frontend: Next.js, TypeScript, SCSS
-Backend: Node.js, Express.js, TypeScript
-Database: PostgreSQL, Prisma ORM
-Cache: Redis
-Payment Processing: Stripe (for optional paid events or donations)
-Authentication: NextAuth.js or Firebase Auth
-Scheduling: FullCalendar, date-fns or Luxon
-Deployment: Vercel (for the frontend), Heroku (for the backend and PostgreSQL)
+- Frontend: Next.js, TypeScript, SCSS
+- Backend: Node.js, Express.js, TypeScript
+- Database: PostgreSQL, Prisma ORM
+- Cache: Redis
+- Payment Processing: Stripe (for optional paid events or donations)
+- Authentication: NextAuth.js or Firebase Auth
+- Scheduling: FullCalendar, date-fns or Luxon
+- Deployment: Vercel (for the frontend), Heroku (for the backend and PostgreSQL)
 
 ## Functional Requirements
 1. User Authentication
